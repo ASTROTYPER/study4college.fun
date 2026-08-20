@@ -4,3 +4,11 @@ createCanvas(500,500,)
 background('pink');
 
 }
+
+
+
+function draw () {
+ rect(150, 150, 500, 500,)
+
+
+{
