@@ -1,2 +1,3 @@
 # study4college.fun
-The sercrest gamesite
+IDK Im guessing this is a site to watch random things lowkey
+
