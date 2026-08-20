@@ -1,1 +1,6 @@
-<iframe src="https://example.com" width="100%" height="500px"></iframe>
+function setup () {
+
+createCanvas(500,500,)
+background('pink');
+
+}
